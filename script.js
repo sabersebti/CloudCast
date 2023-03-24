@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", function() {
   function createCurrentWeatherCard(cityName, weatherData) {
     var cardEl = document.createElement("div");
     cardEl.classList.add("card", "mr-2");
-    cardEl.style.width = "62rem";
+    cardEl.style.width = "12rem";
     var cardBody = document.createElement("div");
     cardBody.classList.add("card-body");
 
