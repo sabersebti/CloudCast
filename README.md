@@ -18,4 +18,4 @@ When a user clicks on a city in the search history, they are again presented wit
 
 
 ![image](https://user-images.githubusercontent.com/76743603/227614792-00186062-b999-47e8-8c8d-f3841a72e5f1.png)
-if you lke what you see go checkout on: https://github.com/sabersebti/CloudCast
+if you lke what you see go checkout on: https://sabersebti.github.io/CloudCast/
